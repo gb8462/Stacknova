@@ -1,4 +1,6 @@
 # Ragudo's Programs
 
 def main():
-    print("In Progress")
+    for i in range(1,7):
+        print("*" * i)
+main()
