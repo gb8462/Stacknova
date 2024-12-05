@@ -6,13 +6,13 @@ sum = num + num1
 dif = num - num1
 pro = num * num1
 quo = num / num1
-if ope.lower() = a:
+if ope.lower() == a:
   print(f"The sum of {num} & {num1} is {sum}")
-elif ope.lower() = s:
+elif ope.lower() == s:
   print(f"The difference of {num} & {num1} is {dif}")
-elif ope.lower() = m:
+elif ope.lower() == m:
   print(f"The product of {num} & {num1} is {pro}")
-elif ope.lower() = d:
+elif ope.lower() == d:
   print(f"The quotient of {num} & {num1} is {quo}")
 else:
   print("Invalid answer try again")
