@@ -1,6 +1,6 @@
 print("Hello World")
-num = input("Please enter a number: ")
-num1 = input("Please enter a 2nd number: ")
+num = eval(input("Please enter a number: "))
+num1 = eval(input("Please enter a 2nd number: "))
 ope = input("What do you want to do with the numbers?\n | Addition (A) | Subtraction (S) | Multiplication (M) | Division (D) | \n ")
 sum = num + num1
 dif = num - num1
