@@ -16,4 +16,3 @@ elif ope.lower() == d:
   print(f"The quotient of {num} & {num1} is {quo}")
 else:
   print("Invalid answer try again")
-  continue
