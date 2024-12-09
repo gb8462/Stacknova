@@ -28,3 +28,4 @@ def decode():
     clean()
     decoded_data = base64.b64decode(decoding.encode('utf-8')).decode('utf-8')
     print(f"Here is the Decrypted Data you Entered: \n{decoded_data}")
+Encoding_Decoding()

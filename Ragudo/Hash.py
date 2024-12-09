@@ -13,3 +13,4 @@ def hash():
         hash_hex = hash.hexdigest()
 
         print("SHA-256 Hash:", hash_hex)
+hash()
