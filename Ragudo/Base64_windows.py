@@ -2,7 +2,7 @@ import os
 import base64
 
 def clean():
-    os.system("clear")
+    os.system("cls")
 
 def Encoding_Decoding():
     while True:
