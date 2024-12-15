@@ -5,6 +5,10 @@ Q. But ragudo why?
 
 Rag. Cause this will help us learn more about version control like git
 
-Q. but ragudo why complicate life?
+Q. But ragudo why complicate life?
 
 Rag. Cause why not!
+
+Q. But Why tho?
+
+Rag. I WANT THAT GODDAMN ACHIEVEMENT!
