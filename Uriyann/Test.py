@@ -182,4 +182,3 @@ window.mainloop()
 
 """Credit From Bro Code"""
 """A fun calculator UI to learn and use"""
-"""Git gud"""
