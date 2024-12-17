@@ -10,3 +10,5 @@ SHA-256 Hashing Program
 ## Notes:
 
 There's more members now :D
+
+Now more problem with merging yay :D
