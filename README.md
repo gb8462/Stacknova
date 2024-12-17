@@ -13,3 +13,10 @@ Rag. Cause why not!
 Q. But Why tho?
 
 Rag. I WANT THAT GODDAMN ACHIEVEMENT!
+---
+
+### New members Added to Collab :D
+
+**actually just member since only one**
+
+Anyway congrats to all of us!, there would be more merge conflict ahead :D
