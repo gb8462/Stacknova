@@ -1,6 +1,4 @@
-# Why are you here?
-# Why are you still reading?
-# Get the hell out! :3
+# Why are you here?, Why are you still reading?, Get the hell out! :3
 
 ## New Things Added!
 
