@@ -12,7 +12,7 @@ Rag. Cause why not!
 
 Q. But Why tho?
 
-Rag. I WANT THAT GODDAMN ACHIEVEMENT!
+Rag. I WANT THAT ACHIEVEMENT!
 
 ---
 
