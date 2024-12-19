@@ -10,6 +10,8 @@ New members Added to Collab :D !
 
 Anyway congrats to all of us!, there would be more merge conflict ahead :D
 
+---
+
 ## PREVIOUS ANNOUNCEMENT
 
 From here on out we will be making branches, our own branches.
