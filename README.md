@@ -1,4 +1,16 @@
-### ANNOUNCEMENT
+## NEW ANNOUNCEMENT
+
+I am happy to announce to you all that our github website are now being made and of course thats not all! .
+
+New members Added to Collab :D !
+
+**New members:**
+1. Our Handsome friend Barotea!
+2. Our Kind friend Azil!
+
+Anyway congrats to all of us!, there would be more merge conflict ahead :D
+
+## PREVIOUS ANNOUNCEMENT
 
 From here on out we will be making branches, our own branches.
 
@@ -15,9 +27,3 @@ Q. But Why tho?
 Rag. I WANT THAT ACHIEVEMENT!
 
 ---
-
-### New members Added to Collab :D
-
-**actually just member since only one**
-
-Anyway congrats to all of us!, there would be more merge conflict ahead :D
