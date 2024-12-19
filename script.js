@@ -8,5 +8,5 @@ document.querySelector('.Home').addEventListener('click', () => {
 });
 
 document.querySelector('.Git').addEventListener('click', () => {
-    redirectToPage('https://github.com'); // Redirects to GitHub
+    redirectToPage('https://github.com/terence-tarrega'); // Redirects to GitHub
 });
