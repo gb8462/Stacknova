@@ -1,8 +1,8 @@
 ## NEW ANNOUNCEMENT
 
-I am happy to announce to you all that our github website are now being made and of course thats not all! .
+I am happy to announce to you all that our github website are now being made and of course that's not all! .
 
-New members Added to Collab :D !
+New members added to Collab :D !
 
 **New members:**
 1. Our Handsome friend Barotea!
