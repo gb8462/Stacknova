@@ -10,3 +10,5 @@ Designer's Notes on making the website:
 <p>I think that's all for now :3</p>
 --
 Imma continue editing for the sportsfest for now since Dec 30 yung Deadline nung designs na yun
+
+-Tarregz out! **mic drop...
