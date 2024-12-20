@@ -3,7 +3,7 @@ html{
     overflow-y: hidden;
 }
 body{
-    background-color: rgb(22, 22, 21);
+    background-color: var(--background-color);
 }
 .Main{
     padding: 1px;
@@ -33,7 +33,30 @@ body{
     transition: color 0.3s ease;
 }
 
-.NavBar div:hover {
+.NavBar button:hover {
     color: rgb(144, 238, 144);
 }
 
+h2 {
+    font-size: larger;
+}
+
+button:hover {
+    opacity: 0.8;
+  }
+  
+button {
+    background-color: var(--button-background);
+    color: var(--button-text);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+body.dark-theme {
+    --background-color: #121212;
+    --text-color: #ffffff;
+    --button-background: #333333;
+    --button-text: #ffffff;
+  }
