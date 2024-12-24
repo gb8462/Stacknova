@@ -1,4 +1,9 @@
-# Why are you here?, Why are you still reading?, Get the hell out! :3
+# Won't be able to add stuff for a while, this dang windows messed up my arch partitions
+
+NOW I HAD TO FIX IT!
+
+---
+
 
 ## New Things Added!
 
