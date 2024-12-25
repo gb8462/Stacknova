@@ -1,6 +1,5 @@
 # Ragudo's Programs
 
-def main():
-    for i in range(1,7):
-        print("*" * i)
-main()
+def main(name):
+    print(f"Helloooo{name}")
+main("carlos")
