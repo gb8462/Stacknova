@@ -6,4 +6,4 @@ def Name(name):
 def greeting(greet):
     print(f"{greet} {Name("Carlos")}")
 
-greeting("Hellooo")
+greeting("Hellooo")  # What is this?, I dont know too
