@@ -1,5 +1,9 @@
 # Ragudo's Programs
 
-def main(name):
-    print(f"Helloooo{name}")
-main("carlos")
+def Name(name):
+    print(f"Helloooo {name}")
+
+def greeting(greet):
+    print(f"{greet} {Name("Carlos")}")
+
+greeting("Hellooo")
