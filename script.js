@@ -1,3 +1,4 @@
+//mostly made by chat gpt but yea, try and replace this code na lngs... -ren
 function redirectToPage(url) {
     window.location.href = url;
 }
