@@ -1,8 +1,25 @@
-## NEW ANNOUNCEMENT
+# NEW ANNOUNCEMENT
 
-_Starting Project soon!_
+## Starting Website Collab
 
-## PREVIOUS ANNOUNCEMENT
+**We will now start our Website Collab Project**
+
+_**Instructions**_
+
+In your Terminal/Command Prompt:
+
+Clone The Repository
+```Ins
+git clone https://github.com/gb8462/BSIT_Cafe_Collab.git
+```
+Open With VScode
+```Ins
+code BSIT_Cafe_Collab
+```
+
+---
+
+### PREVIOUS ANNOUNCEMENT
 
 I am happy to announce to you all that our github website are now being made and of course that's not all! .
 
