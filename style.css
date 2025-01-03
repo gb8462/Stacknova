@@ -1,0 +1,63 @@
+/*this is chat gpt as well. Imma go try and replace this once I'm finished with le figma design*/
+html{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+body{
+    background-color: var(--background-color);
+}
+.Main{
+    padding: 1px;
+    background-color: rgba(70, 70, 70, 0.685);
+    color: rgb(211, 234, 255);
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    user-select: none;
+}
+.NavBar {
+    background-color: rgb(35, 35, 35);
+    color: rgb(211, 234, 255);
+    user-select: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: left;
+    padding: 10px;
+    height: fit-content;
+    margin-top: 1px;
+    margin-top: 1px;
+}
+
+.NavBar div {
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.NavBar button:hover {
+    color: rgb(144, 238, 144);
+}
+
+h2 {
+    font-size: larger;
+}
+
+button:hover {
+    opacity: 0.8;
+  }
+  
+button {
+    background-color: var(--button-background);
+    color: var(--button-text);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+body.dark-theme {
+    --background-color: #121212;
+    --text-color: #ffffff;
+    --button-background: #333333;
+    --button-text: #ffffff;
+  }
