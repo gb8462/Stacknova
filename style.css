@@ -48,6 +48,7 @@ button {
     cursor: pointer;
     border-radius: 5px;
   }
-.ToDo{
+.Overview{
     color: rgb(211, 234, 255);
+    font-style: italic;
 }
