@@ -9,7 +9,7 @@ document.querySelector('.Home').addEventListener('click', () => {
 });
 
 document.querySelector('.Git').addEventListener('click', () => {
-    redirectToPage('https://github.com/terence-tarrega'); // Redirects to GitHub
+    redirectToPage('github-acc.html'); // Redirects to GitHub
 });
 
 const themeToggleButton = document.getElementById('theme-toggle');
