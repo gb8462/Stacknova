@@ -1,21 +1,25 @@
-/*this is chat gpt as well. Imma go try and replace this once I'm finished with le figma design*/
 html{
     overflow-x: hidden;
     overflow-y: hidden;
 }
+
 body{
     background-color: rgb(20,20,20);
 }
-.Main{
+
+/*This is The Header part*/
+.header{
     padding: 1px;
     background-color: rgba(70, 70, 70, 0.685);
     color: rgb(211, 234, 255);
     font-style: italic;
-    font-size: 20px;
+    font-size: 15px;
     text-align: center;
     user-select: none;
 }
-.NavBar {
+
+/*This is The NavBar part*/
+.NavBar{
     background-color: rgb(35, 35, 35);
     color: rgb(211, 234, 255);
     user-select: none;
@@ -26,28 +30,25 @@ body{
     height: fit-content;
 }
 
-.NavBar div {
+.NavBar div{
     font-size: 1.2rem;
     cursor: pointer;
     transition: color 0.3s ease;
 }
 
-.NavBar button:hover {
+.NavBar button:hover{
     color: rgb(147, 153, 204);
 }
-
-button:hover {
-    opacity: 0.8;
-  }
   
-button {
+button{
     background-color: var(--button-background);
     color: var(--button-text);
     border: none;
-    padding: 10px 20px;
+    padding: 5px 15px;
     cursor: pointer;
-    border-radius: 5px;
   }
+
+/*This is the OverView and Main Section of our web*/
 .Overview{
     color: rgb(211, 234, 255);
     font-style: italic;
