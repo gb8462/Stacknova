@@ -16,6 +16,18 @@ Open With VScode
 ```Ins
 code BSIT_Cafe_Collab
 ```
+Create your branch
+```Ins
+git branch your-branch
+```
+Switch to your branch
+```Ins
+git switch your-branch
+```
+To list all branches
+```Ins
+git branch -a
+```
 
 ### BSIT-CAFE-COLLAB-WEBSITE: ( https://gb8462.github.io/BSIT_Cafe_Collab/ )
 
