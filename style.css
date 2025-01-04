@@ -4,7 +4,7 @@ html{
     overflow-y: hidden;
 }
 body{
-    background-color: var(--background-color);
+    background-color: rgb(20,20,20);
 }
 .Main{
     padding: 1px;
@@ -24,8 +24,6 @@ body{
     align-items: left;
     padding: 10px;
     height: fit-content;
-    margin-top: 1px;
-    margin-top: 1px;
 }
 
 .NavBar div {
@@ -35,11 +33,7 @@ body{
 }
 
 .NavBar button:hover {
-    color: rgb(144, 238, 144);
-}
-
-h2 {
-    font-size: larger;
+    color: rgb(147, 153, 204);
 }
 
 button:hover {
@@ -54,10 +48,6 @@ button {
     cursor: pointer;
     border-radius: 5px;
   }
-
-body.dark-theme {
-    --background-color: #121212;
-    --text-color: #ffffff;
-    --button-background: #333333;
-    --button-text: #ffffff;
-  }
+.ToDo{
+    color: rgb(211, 234, 255);
+}
