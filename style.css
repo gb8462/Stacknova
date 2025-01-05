@@ -13,6 +13,7 @@ body{
     background-color: rgba(70, 70, 70, 0.685);
     color: rgb(211, 234, 255);
     font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
     text-align: center;
     user-select: none;
