@@ -41,7 +41,7 @@ New members added to Collab :D !
 
 **New members:**
 1. Our Handsome friend Barotea!
-2. Our Kind friend Azil! -- (pending)
+2. Our Kind friend Azil!
 
 Anyway congrats to all of us!, there would be more merge conflict ahead :D
 
