@@ -12,9 +12,9 @@ document.addEventListener('DOMContentLoaded', () => {
       redirectToPage('index.html');
   });
 
-  document.querySelector('.Git').addEventListener('click', () => {
-      console.log('Git clicked');
-      redirectToPage('github.html');
+  document.querySelector('.Credits').addEventListener('click', () => {
+      console.log('Credits clicked');
+      redirectToPage('Credits.html');
   });
 });
 
