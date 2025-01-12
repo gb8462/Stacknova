@@ -1,6 +1,6 @@
 # NEW ANNOUNCEMENT
 
-## **We will now start our Website Collab Project**
+## **Website Collab Project**
 
 _**Instructions**_
 
