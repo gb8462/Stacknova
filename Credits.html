@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Devs</title>
+    <script>
+    function redirectToPage(url) {
+            window.location.href = url;
+    }
+    document.addEventListener('DOMContentLoaded', () => {
+        console.log('DOM fully loaded');
+        document.querySelector('.Home').addEventListener('click', () => {
+            console.log('Home clicked');
+            redirectToPage('index.html');
+        });
+        
+        document.querySelector('.Credits').addEventListener('click', () => {
+            console.log('Credits clicked');
+            redirectToPage('Credits.html');
+        });
+    });
+    </script>
+</head>
+
+<body>
+    <header>
+        <h1>Developers</h1>
+    </header>
+    <div class="NavBar">
+        <div class="Home">Home</div>
+        <div class="Lessons">Lessons</div>
+        <div class="Themes">Themes</div>
+        <div class="Credits">Credits</div>
+    </div>
+    <div class="githubs">
+        <div class="section1">In Progress</div>
+        <div class="section2">In Progress</div>
+        <div class="section3">In Progress</div>
+    </div>
+
+</body>
+
+<style>
+    body{
+        background-color: rgb(23, 23, 27);
+        overflow-x: hidden;
+        overflow-y: hidden;
+        background: rgb(24,24,24);
+        background: linear-gradient(130deg, rgba(24,24,24,1) 0%, rgba(23,22,33,1) 100%);
+    }
+    header{
+        color: #f8f9fa;
+        background-color: rgb(64, 65, 73);
+        user-select: none;
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-size: medium;
+        padding: 1px;
+        background: rgb(33,37,41);
+        background: linear-gradient(180deg, rgb(33, 34, 41) 0%, rgb(52, 58, 64) 100%);
+    }
+    .NavBar{
+        color: #f8f9fa;
+        user-select: none;
+        display: flex;
+        justify-content: space-around;
+        font-size: small;
+        align-items: left;
+        padding: 10px;
+        height: fit-content;
+        background: rgb(18,21,23);
+        background: linear-gradient(180deg, rgb(34, 38, 41) 0%, rgb(40, 40, 43) 100%);
+
+    }
+    .Home:hover, .Lessons:hover, .Themes:hover, .Credits:hover{
+        color: rgb(216, 205, 142);
+    }
+    .githubs{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #f8f9fa;
+        background-color: #343a40;
+        margin-top: 12px;
+        padding-bottom: 150px;
+        padding-top: 5px;
+        border-radius: 1rem;
+        background: rgb(33,37,41);
+        background: linear-gradient(150deg, rgb(50, 51, 59) 0%, rgb(47, 53, 58) 100%);
+    }
+    .section1{
+        background-color: #101213;
+        padding: 5px;
+        margin-left: 5px;
+    }
+    .section2{
+        background-color: #101213;
+        padding: 5px;
+        margin-left: 5px;
+    }
+    .section3{
+        background-color: #101213;
+        padding: 5px;
+        margin-left: 5px;
+    }
+</style>
+</html>
