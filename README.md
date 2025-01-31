@@ -1,4 +1,4 @@
-# NEW ANNOUNCEMENT
+# ANNOUNCEMENT
 
 ## **Website Collab Project**
 
