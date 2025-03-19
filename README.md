@@ -26,7 +26,4 @@ Switch to your branch
 ```Ins
 git switch your-branch
 ```
-
-### BSIT-CAFE-COLLAB-WEBSITE: (The Site is Currently Down...)
-
 ---
