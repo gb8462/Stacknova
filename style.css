@@ -5,6 +5,11 @@ body{
     background-color: #1d1c21;
     color: white;
 }
+img{
+    width: 35px;
+    height: 35px;
+    padding-right: 20px;
+}
 ul{
     list-style-type: none;
     margin: 0px;
