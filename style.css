@@ -1,56 +1,39 @@
-html{
-    overflow-x: hidden;
-    overflow-y: hidden;
-}
-
 body{
-    background-color: rgb(20,20,20);
+    margin: 0;
+    padding: 0;
+    width: 100%;
 }
 
-/*This is The Header part*/
-.header{
-    padding: 1px;
-    background-color: rgba(70, 70, 70, 0.685);
-    color: rgb(211, 234, 255);
-    font-family: 'Times New Roman', Times, serif;
-    font-style: italic;
-    font-size: 15px;
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: white;
     text-align: center;
-    user-select: none;
+    padding: 14px 16px;
+    text-decoration: none;
 }
-
-/*This is The NavBar part*/
-.NavBar{
-    background-color: rgb(35, 35, 35);
-    color: rgb(211, 234, 255);
-    user-select: none;
-    display: flex;
-    justify-content: space-around;
-    align-items: left;
-    padding: 10px;
-    height: fit-content;
-}
-
-.NavBar div{
-    font-size: 1.2rem;
-    cursor: pointer;
-    transition: color 0.3s ease;
-}
-
-.NavBar button:hover{
-    color: rgb(147, 153, 204);
+.about{
+    margin-right: 10px;
 }
   
-button{
-    background-color: var(--button-background);
-    color: var(--button-text);
-    border: none;
-    padding: 5px 15px;
-    cursor: pointer;
-  }
-
-/*This is the OverView and Main Section of our web*/
-.Overview{
-    color: rgb(211, 234, 255);
-    font-style: italic;
+  /* Change the link color to #111 (black) on hover */
+li a:hover{
+    background-color: #111;
+}
+.Home{
+    background-color: #44c484;
+}
+li .Home:hover{
+    background-color: rgb(11, 9, 20);
+    color: #241e14;
 }
