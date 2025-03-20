@@ -29,11 +29,13 @@ li a{
 }
 li a:hover{
     background-color: #151515;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
 }
 .Home{
     background-color: #44c484;
 }
-li .Home:hover{
+li a.Home:hover {
     background-color: rgb(139, 117, 237);
     color: #151424;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
 }
