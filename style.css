@@ -43,7 +43,7 @@ li a:hover{
     background-color: #44c484;
 }
 li a.Home:hover {
-    background-color: #8ab1df;
+    background-color: #5480b1;
     color: #040f0a;
     transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
 }
