@@ -2,6 +2,8 @@
 
 ## **Website Collab Project**
 
+Website: _(Nothing here yet)_
+
 _**Instructions**_
 
 In your Terminal/Command Prompt:
@@ -10,7 +12,7 @@ Clone The Repository
 ```Ins
 git clone https://github.com/gb8462/BSIT_Cafe_Collab.git
 ```
-Open With VScode
+Open With VScode in terminal
 ```Ins
 code BSIT_Cafe_Collab
 ```
