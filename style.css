@@ -3,15 +3,14 @@ body{
     padding: 0;
     width: 100%;
 }
-
 ul{
     list-style-type: none;
     margin: 0px;
     padding: 0px;
     overflow: hidden;
     background-color: #333;
+    font-size: 12px;
 }
-
 li{
     float: left;
 }
@@ -21,12 +20,12 @@ li a{
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 .about{
     margin-right: 10px;
 }
-  
-  /* Change the link color to #111 (black) on hover */
 li a:hover{
     background-color: #111;
 }
@@ -34,6 +33,6 @@ li a:hover{
     background-color: #44c484;
 }
 li .Home:hover{
-    background-color: rgb(11, 9, 20);
-    color: #241e14;
+    background-color: rgb(139, 117, 237);
+    color: #151424;
 }
