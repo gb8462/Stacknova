@@ -97,7 +97,7 @@ h1{
     margin-top: 0;
     height: 500px; /* Adjust height as needed */
     background-image: url('Background/Pc.png');
-    background-size: contain;  /* Ensures the whole image is visible */
-    background-position: center center; /* Keeps it aligned properly */
-    background-repeat: no-repeat; /* Prevents tiling */
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
 }
