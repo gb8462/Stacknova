@@ -90,6 +90,8 @@ h1{
     user-select: none;
 }
 .page2{
+    font-family: 'Times New Roman', Times, serif;
+    color: #32e4af;
     background-color: #121129;
     padding-left: 0;
     padding-right: 0;
@@ -100,4 +102,15 @@ h1{
     background-size: contain;
     background-position: center center;
     background-repeat: no-repeat;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 25px;
+    padding-left: 55px;
+}
+.dis{
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 0;
+    padding-left: 55px;
+    width: 40%;
 }
