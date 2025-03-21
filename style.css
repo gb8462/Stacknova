@@ -7,6 +7,7 @@ body{
 }
 .navBar{
     user-select: none;
+    width: 100%;
 }
 img{
     border-style: solid;
@@ -87,4 +88,16 @@ h1{
     padding-top: 1px;
     padding-bottom: 10px;
     user-select: none;
+}
+.page2{
+    background-color: #1b1b1e;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 5px;
+    margin-top: 0;
+    height: 800px; /* Adjust height as needed */
+    background-image: url('Background/Pc.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
