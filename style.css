@@ -90,14 +90,14 @@ h1{
     user-select: none;
 }
 .page2{
-    background-color: #1b1b1e;
+    background-color: #121129;
     padding-left: 0;
     padding-right: 0;
     padding-top: 5px;
     margin-top: 0;
     height: 800px; /* Adjust height as needed */
     background-image: url('Background/Pc.png');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    background-size: contain;  /* Ensures the whole image is visible */
+    background-position: top center; /* Keeps it aligned properly */
+    background-repeat: no-repeat; /* Prevents tiling */
 }
