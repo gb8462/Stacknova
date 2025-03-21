@@ -5,6 +5,9 @@ body{
     background-color: #242329;
     color: white;
 }
+.navBar{
+    user-select: none;
+}
 img{
     border-style: solid;
     border-color: #3e453f;
@@ -81,4 +84,5 @@ h1{
     color: #44c484;
     padding-top: 1px;
     padding-bottom: 10px;
+    user-select: none;
 }
