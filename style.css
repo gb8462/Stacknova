@@ -84,7 +84,7 @@ h1{
     margin-bottom: 0;
 }
 .page1{
-    background-color: #0d0d11;
+    background-color: #0c0c12;
     color: #3cc37f;
     padding-top: 1px;
     padding-bottom: 10px;
@@ -108,7 +108,9 @@ h1{
 h2{
     font-family: 'Times New Roman', Times, serif;
     margin-top: 25px;
+    color: #32e4af;
     padding-left: 55px;
+    font-size: 35px;
 }
 .dis{
     font-family: 'Times New Roman', Times, serif;
