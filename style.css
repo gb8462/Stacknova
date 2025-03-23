@@ -86,7 +86,7 @@ li a.Home:hover {
     0% { text-shadow: 0px 0px 5px #00ea00; }
     50% { text-shadow: 0px 0px 15px #00ea00; }
     100% { text-shadow: 0px 0px 5px #00ea00; }
-  }
+}
 
 h1{
     font-family: 'Times New Roman', Times, serif;
