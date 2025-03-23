@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;700&display=swap');
+
 html{
     scroll-behavior: smooth;
 }
@@ -37,6 +39,7 @@ ul{
     padding: 0px;
     overflow: hidden;
     background-color: #131316;
+    font-family: 'JetBrains Mono', monospace;
     font-size: 12px;
 }
 li{
@@ -70,23 +73,6 @@ li a.Home:hover {
     color: #040f0a;
     transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
 }
-h1{
-    color: #32e485;
-    font-family: 'Times New Roman', Times, serif;
-    flex-wrap: wrap;
-    font-size: 90px;
-    text-align: center;
-    margin-bottom: 0;
-    margin-top: -11px;
-}
-.sub{
-    font-family: 'Times New Roman', Times, serif;
-    color: #32e485;
-    text-align: center;
-    margin-top: 0;
-    padding-top: 0;
-    margin-bottom: 0;
-}
 .page1{
     background-color: #0c0c12;
     color: #32e485;
@@ -94,9 +80,28 @@ h1{
     padding-bottom: 10px;
     user-select: none;
     padding-bottom: 15px;
+    font-family: 'JetBrains Mono', monospace;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: #32e485;
+    flex-wrap: wrap;
+    font-size: 85px;
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: -11px;
+    text-shadow: 3px 3px 5px rgba(201, 103, 183, 0.431);
+}
+.sub{
+    font-size: 14px;
+    color: #32e485;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 0;
+    text-shadow: 2px 2px 4px rgba(201, 103, 168, 0.431);
+    margin-bottom: 0;
 }
 .page2{
-    font-family: 'Times New Roman', Times, serif;
     color: #32e485;
     background-color: #359775;
     padding-left: 0;
@@ -121,9 +126,9 @@ h1{
 .text-content {
     flex: 1;
     max-width: 55%;
+    font-family: 'JetBrains Mono', monospace;
 }
 h2 {
-    font-family: 'Times New Roman', Times, serif;
     color: #32e485;
     font-size: 55px;
     margin-top: 25px;
@@ -131,7 +136,6 @@ h2 {
 }
 
 .dis {
-    font-family: 'Times New Roman', Times, serif;
     color: white;
     margin: 0;
     margin-left: -25px;
