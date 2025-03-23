@@ -82,6 +82,12 @@ li a.Home:hover {
     padding-bottom: 15px;
     font-family: 'JetBrains Mono', monospace;
 }
+@keyframes flicker {
+    0% { text-shadow: 0px 0px 5px #00ea00; }
+    50% { text-shadow: 0px 0px 15px #00ea00; }
+    100% { text-shadow: 0px 0px 5px #00ea00; }
+  }
+
 h1{
     font-family: 'Times New Roman', Times, serif;
     color: #32e485;
@@ -90,7 +96,9 @@ h1{
     text-align: center;
     margin-bottom: 0;
     margin-top: -11px;
-    text-shadow: 3px 3px 5px rgba(201, 103, 183, 0.431);
+    text-shadow: 0px 0px 10px #00ea00, 0px 0px 20px #00ea00;
+    animation: flicker 2s infinite alternate;
+
 }
 .sub{
     font-size: 14px;
@@ -98,7 +106,7 @@ h1{
     text-align: center;
     margin-top: 0;
     padding-top: 0;
-    text-shadow: 2px 2px 4px rgba(201, 103, 168, 0.431);
+    text-shadow: 2px 2px 5px rgba(201, 103, 168, 0.431);
     margin-bottom: 0;
 }
 .page2{
