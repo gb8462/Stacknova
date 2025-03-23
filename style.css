@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 body{
     margin: 0;
     padding: 0;
@@ -94,32 +97,46 @@ h1{
 .page2{
     font-family: 'Times New Roman', Times, serif;
     color: #32e485;
-    background-color: #121129;
+    background-color: #14132b;
     padding-left: 0;
     padding-right: 0;
     padding-top: 5px;
     margin-top: 0;
-    height: 500px; /* Adjust height as needed */
-    background-image: url('Background/Pc.png');
+    height: 450px; /* Adjust height as needed */
+    background-image: url('Background/pc.png');
     background-size: contain;
     background-position: center center;
     background-repeat: no-repeat;
 }
-h2{
-    font-family: 'Times New Roman', Times, serif;
-    margin-top: 25px;
-    color: #32e485;
-    padding-left: 55px;
-    font-size: 35px;
-}
-.dis{
-    font-family: 'Times New Roman', Times, serif;
-    padding-top: 0;
-    padding-left: 55px;
-    width: 40%;
-}
 .page3{
-    padding: 1px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 80px;
     margin: 0;
     background-color: #0c0c12;
+    overflow: hidden;
+}
+.text-content {
+    flex: 1;
+    max-width: 55%;
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #32e485;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+.dis {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.cat {
+    width: 400px;
+    height: 400px;
+    max-width: 100%;
+    border: none;
+    object-fit: contain;
 }
