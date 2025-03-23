@@ -33,7 +33,7 @@ ul{
     margin: 0px;
     padding: 0px;
     overflow: hidden;
-    background-color: #161617;
+    background-color: #131316;
     font-size: 12px;
 }
 li{
@@ -68,7 +68,7 @@ li a.Home:hover {
     transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
 }
 h1{
-    color: #3cc37f;
+    color: #32e485;
     font-family: 'Times New Roman', Times, serif;
     font-size: 90px;
     text-align: center;
@@ -77,7 +77,7 @@ h1{
 }
 .sub{
     font-family: 'Times New Roman', Times, serif;
-    color: #3fc381;
+    color: #32e485;
     text-align: center;
     margin-top: 0;
     padding-top: 0;
@@ -85,7 +85,7 @@ h1{
 }
 .page1{
     background-color: #0c0c12;
-    color: #3cc37f;
+    color: #32e485;
     padding-top: 1px;
     padding-bottom: 10px;
     user-select: none;
@@ -93,7 +93,7 @@ h1{
 }
 .page2{
     font-family: 'Times New Roman', Times, serif;
-    color: #32e4af;
+    color: #32e485;
     background-color: #121129;
     padding-left: 0;
     padding-right: 0;
@@ -108,7 +108,7 @@ h1{
 h2{
     font-family: 'Times New Roman', Times, serif;
     margin-top: 25px;
-    color: #32e4af;
+    color: #32e485;
     padding-left: 55px;
     font-size: 35px;
 }
