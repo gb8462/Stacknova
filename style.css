@@ -97,7 +97,7 @@ h1{
 .page2{
     font-family: 'Times New Roman', Times, serif;
     color: #32e485;
-    background-color: #14132b;
+    background-color: #316b5e;
     padding-left: 0;
     padding-right: 0;
     padding-top: 5px;
@@ -111,11 +111,11 @@ h1{
 .page3{
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    padding: 40px 80px;
+    padding: 20px 80px;
     margin: 0;
     background-color: #0c0c12;
     overflow: hidden;
+    flex-wrap: wrap;
 }
 .text-content {
     flex: 1;
@@ -124,13 +124,17 @@ h1{
 h2 {
     font-family: 'Times New Roman', Times, serif;
     color: #32e485;
-    font-size: 35px;
-    margin-bottom: 10px;
+    font-size: 50px;
+    margin-top: 25px;
+    margin-left: -25px;
 }
 
 .dis {
     font-family: 'Times New Roman', Times, serif;
     color: white;
+    margin: 0;
+    margin-left: -25px;
+    width: 100%;
 }
 
 .cat {
