@@ -122,40 +122,73 @@ h1{
     background-position: center center;
     background-repeat: no-repeat;
 }
-.page3{
+.page3 {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 20px 80px;
     margin: 0;
     background-color: #0c0c12;
     overflow: hidden;
     flex-wrap: wrap;
+    gap: 20px; /* Prevents items from sticking together */
 }
+
 .text-content {
     flex: 1;
     max-width: 55%;
     font-family: 'JetBrains Mono', monospace;
 }
+
 h2 {
     color: #32e485;
     font-size: 55px;
     margin-top: 25px;
-    margin-left: -25px;
 }
 
 .dis {
     color: white;
     margin: 0;
-    margin-left: -25px;
-    width: 100%;
+    max-width: 100%;
+    text-align: justify;
+    line-height: 1.5;
+    word-wrap: break-word;
 }
 
+/* Image Styling */
 .cat {
     width: 400px;
-    height: 400px;
+    height: auto;
     max-width: 100%;
     border: none;
     object-fit: contain;
-    padding: 0;
-    margin: 0;
+}
+
+/* === Mobile Fixes === */
+@media screen and (max-width: 768px) {
+    .page3 {
+        flex-direction: column;
+        text-align: center;
+        padding: 20px;
+    }
+
+    .text-content {
+        max-width: 100%;
+    }
+
+    h2 {
+        font-size: 40px;
+        margin: 0 auto;
+    }
+
+    .dis {
+        max-width: 100%;
+        text-align: left;
+        padding: 10px;
+    }
+
+    .cat {
+        width: 80%;
+        max-width: 300px;
+    }
 }
