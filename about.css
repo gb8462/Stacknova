@@ -71,3 +71,8 @@ li a.Home:hover {
     color: #040f0a;
     transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
 }
+li a.active {
+    background-color: #44c484; /* Same as the Home button */
+    color: #f0f0f0;
+    border-radius: 1px;
+}
