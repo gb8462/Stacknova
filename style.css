@@ -120,7 +120,7 @@ li a.Home:hover {
 
 .text-content {
     flex: 1;
-    max-width: 80%;
+    max-width: 60%;
     font-family: 'JetBrains Mono', monospace;
 }
 
