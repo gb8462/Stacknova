@@ -129,9 +129,9 @@ li a.Home:hover {
     font-size: 50px;
     flex-wrap: wrap;
     margin-bottom: 40px;
-    width: 80%;
+    width: 70%;
     margin-top: 25px;
-    text-shadow: 2px 2px 5px rgba(201, 103, 168, 0.431);
+    text-shadow: 2px 2px 6px rgba(201, 103, 168, 0.431);
 }
 
 .dis {
