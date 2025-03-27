@@ -185,12 +185,15 @@ li a.Home:hover {
 .ok1 {
     color: white;
     margin: 0;
+    padding-left: 15px;
     max-width: 100%;
+    width: 40%;
     text-align: justify;
     line-height: 1.5;
     word-wrap: break-word;
 }
 .aboutmain {
+    padding-left: 15px;
     color: #32e485;
     font-size: 50px;
     flex-wrap: wrap;
