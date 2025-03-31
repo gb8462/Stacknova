@@ -135,7 +135,7 @@ li a.Home:hover {
 }
 
 .dis {
-    color: white;
+    color: rgb(245, 245, 245);
     margin: 0;
     max-width: 100%;
     text-align: justify;
