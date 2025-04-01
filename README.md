@@ -1,6 +1,6 @@
-# ANNOUNCEMENT
+# **Website Collab Project**
 
-## **Website Collab Project**
+Website: _https://gb8462.github.io/BSIT_Cafe_Collab/_
 
 _**Instructions**_
 
@@ -27,4 +27,3 @@ Switch to your branch
 git switch your-branch
 ```
 ---
-Website: _https://gb8462.github.io/BSIT_Cafe_Collab/_
