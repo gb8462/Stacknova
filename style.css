@@ -208,7 +208,8 @@ li a.Home:hover {
 }
 
 .imgwrapper {
-    padding: 10rem;
+    padding: 5rem;
+    border-radius: 50%;
 }
 
 .card-content {
@@ -221,7 +222,7 @@ li a.Home:hover {
     padding-left: 15px;
     max-width: 100%;
     width: 40%;
-    text-align: justify;
+    text-align: right;
     line-height: 1.5;
     word-wrap: break-word;
     font-family: 'JetBrains Mono', monospace;
@@ -233,7 +234,7 @@ li a.Home:hover {
     padding-left: 15px;
     max-width: 100%;
     width: 40%;
-    text-align: justify;
+    text-align: right;
     line-height: 1.5;
     word-wrap: break-word;
     font-family: 'JetBrains Mono', monospace;
@@ -245,7 +246,7 @@ li a.Home:hover {
     padding-left: 15px;
     max-width: 100%;
     width: 40%;
-    text-align: justify;
+    text-align: right;
     line-height: 1.5;
     word-wrap: break-word;
     font-family: 'JetBrains Mono', monospace;
