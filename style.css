@@ -223,6 +223,7 @@ li a.Home:hover {
     max-width: 100%;
     width: 40%;
     text-align: right;
+    font-size: 30px;
     line-height: 1.5;
     word-wrap: break-word;
     font-family: 'JetBrains Mono', monospace;
@@ -235,6 +236,7 @@ li a.Home:hover {
     max-width: 100%;
     width: 40%;
     text-align: right;
+    font-size: 20px;
     line-height: 1.5;
     word-wrap: break-word;
     font-family: 'JetBrains Mono', monospace;
@@ -246,7 +248,7 @@ li a.Home:hover {
     padding-left: 15px;
     max-width: 100%;
     width: 40%;
-    text-align: right;
+    text-align: justify;
     line-height: 1.5;
     word-wrap: break-word;
     font-family: 'JetBrains Mono', monospace;
