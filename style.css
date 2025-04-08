@@ -182,16 +182,7 @@ li a.Home:hover {
         max-width: 300px;
     }
 }
-.ok1 {
-    color: white;
-    margin: 0;
-    padding-left: 15px;
-    max-width: 100%;
-    width: 40%;
-    text-align: justify;
-    line-height: 1.5;
-    word-wrap: break-word;
-}
+
 .aboutmain {
     padding-left: 15px;
     color: #32e485;
@@ -201,5 +192,61 @@ li a.Home:hover {
     width: 70%;
     margin-top: 25px;
     text-shadow: 2px 2px 6px rgba(201, 103, 168, 0.431);
+    font-family: 'JetBrains Mono', monospace;
 }
 
+.welcome-msg {
+    color: white;
+    margin: 0;
+    padding-left: 15px;
+    max-width: 100%;
+    width: 40%;
+    text-align: justify;
+    line-height: 1.5;
+    word-wrap: break-word;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.imgwrapper {
+    padding: 10rem;
+}
+
+.card-content {
+    flex-wrap: wrap;
+}
+
+.text-blk-name {
+    color: white;
+    margin: 0;
+    padding-left: 15px;
+    max-width: 100%;
+    width: 40%;
+    text-align: justify;
+    line-height: 1.5;
+    word-wrap: break-word;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.text-blk-github-naem {
+    color: white;
+    margin: 0;
+    padding-left: 15px;
+    max-width: 100%;
+    width: 40%;
+    text-align: justify;
+    line-height: 1.5;
+    word-wrap: break-word;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.text-blk-testimonial {
+    color: white;
+    margin: 0;
+    padding-left: 15px;
+    max-width: 100%;
+    width: 40%;
+    text-align: justify;
+    line-height: 1.5;
+    word-wrap: break-word;
+    font-family: 'JetBrains Mono', monospace;
+}
