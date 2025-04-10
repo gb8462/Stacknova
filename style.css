@@ -231,7 +231,7 @@ li a.Home:hover {
 }
 
 .text-blk-name {
-    color: rgb(47, 245, 64);
+    color: rgb(33, 190, 46);
     margin: 0;
     padding-left: 15px;
     max-width: 100%;
@@ -274,4 +274,5 @@ li a.Home:hover {
     line-height: 1.5;
     word-wrap: break-word;
     font-family: 'JetBrains Mono', monospace;
+    text-align: justify;
 }
