@@ -1,4 +1,4 @@
-# **Web Collaboration**
+# **Website Collaboration**
 
 ### Website: _https://gb8462.github.io/BSIT_Cafe_Collab/_
 
