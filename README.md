@@ -1,7 +1,5 @@
 # **Website Collaboration**
 
-### Website: _https://gb8462.github.io/BSIT_Cafe_Collab/_
-
 _**Instructions**_
 
 In your Terminal/Command Prompt:
@@ -27,3 +25,5 @@ Switch to your branch
 git switch your-branch
 ```
 ---
+
+### Website: _https://gb8462.github.io/BSIT_Cafe_Collab/_
