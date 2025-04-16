@@ -183,32 +183,66 @@ li a.Home:hover {
         max-width: 300px;
     }
 }
+/* =========== About Page ==========*/
+.About_mainH1{
+    font-family: 'Times New Roman', Times, serif;
+    color: #94a4e0;
+    flex-wrap: wrap;
+    font-size: 85px;
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: -11px;
+    text-shadow: 0px 0px 10px #8899df, 0px 0px 20px #8899df;
+    animation: aboutFlicker 2s infinite alternate;
 
-.about {
-    background-color: #0f0f1c;
+}
+.About_page1{
+    background-color: #0c0c12;
+    color: #8899df;
     padding-top: 1px;
-    padding-bottom: 230px;
+    padding-bottom: 10px;
+    user-select: none;
+    padding-bottom: 15px;
+    font-family: 'JetBrains Mono', monospace;
+}
+@keyframes aboutFlicker {
+    0% { text-shadow: 0px 0px 5px #6d80ce; }
+    50% { text-shadow: 0px 0px 15px #6d80ce; }
+    100% { text-shadow: 0px 0px 5px #6d80ce; }
+  }
+.About_sub{
+    font-size: 14px;
+    color: rgb(225, 232, 252);
+    text-align: center;
+    margin-top: 0;
+    padding-top: 0;
+    text-shadow: 2px 2px 5px rgba(201, 103, 168, 0.431);
+    margin-bottom: 0;
+}
+.about {
+    background-color: #121220;
+    padding-top: 1px;
+    padding-bottom: 100px;
 }
 
 .aboutmain {
-    padding-left: 15px;
-    color: #32e485;
+    color: #8899df;
     font-size: 50px;
     flex-wrap: wrap;
     width: 70%;
     margin-top: 125px;
-    text-shadow: 2px 2px 6px rgba(201, 103, 168, 0.431);
+    text-shadow: 2px 2px 6px rgba(135, 150, 236, 0.63);
     font-family: 'JetBrains Mono', monospace;
 }
 
 .welcome-msg {
-    color: white;
+    color: rgb(225, 232, 252);
     max-width: 100%;
     width: 60%;
     flex-wrap: wrap;
     font-family: 'JetBrains Mono', monospace;
 }
-
+/* =========================================================== */
 .meet-the-team {
     color: white;
     margin: 0;
