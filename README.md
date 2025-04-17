@@ -24,6 +24,3 @@ Switch to your branch
 ```Ins
 git switch your-branch
 ```
----
-
-### Website: _https://gb8462.github.io/BSIT_Cafe_Collab/_
