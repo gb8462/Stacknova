@@ -18,7 +18,7 @@ git branch -a
 ```
 Create your branch
 ```Ins
-git branch your-branch
+git branch -M your-branch
 ```
 Switch to your branch
 ```Ins
