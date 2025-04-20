@@ -118,7 +118,7 @@ li a.Home:hover {
     flex-wrap: wrap;
     gap: 20px; /* Prevents items from sticking together */
 }
-
+g
 .text-content {
     flex: 1;
     max-width: 60%;
