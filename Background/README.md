@@ -1,1 +1,3 @@
-### Background Images
+## Assets Available
+
+Place all assets here.
