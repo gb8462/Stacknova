@@ -1,4 +1,4 @@
-# **Website Collaboration**
+# **Stacknova – Learn. Practice. Stay Updated.**
 
 _**Instructions**_
 
@@ -6,11 +6,11 @@ In your Terminal/Command Prompt:
 
 Clone The Repository
 ```Ins
-git clone https://github.com/gb8462/BSIT_Cafe_Collab.git
+git clone https://github.com/gb8462/Stacknova.git
 ```
 Open With VScode in terminal
 ```Ins
-code BSIT_Cafe_Collab
+code Stacknova
 ```
 To list all branches
 ```Ins
